@@ -97,7 +97,9 @@
 
 ---
 
-### **Lista de Exercícios**
+### **8. Lista de Exercícios**
+
+> Lista pequena para revisão de conceitos.
 
 #### **Questões Objetivas**
 
